@@ -1,0 +1,20 @@
+{
+  "shopinfo": "",
+  "commodities":
+  {
+    "lenses":
+    {
+      "JohnLens":
+      {
+        "1 day":
+        {
+          "1day OASIS Lens":
+          {
+            "counts": [{"value": 30, "price": 100000}, {"value": 30, "price": 100000}],
+            "power": [-0.75, -1.0, -1.25, -1.50, -1.75]
+          }
+        }
+      }
+    }
+  }
+}
